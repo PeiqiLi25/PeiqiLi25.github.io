@@ -6,8 +6,8 @@ Peiqi Li is now a PhD student in the Department of Mathematical Sciences at Univ
 
 #### Contact
 
-Email (XJTLU): Peiqi.Li23[at]xjtlu.edu.cn  
-Email (UoL)  : pspli25[at]liverpool.ac.uk
+Email (XJTLU): Peiqi.Li23@student.xjtlu.edu.cn
+Email (UoL)  : pspli25@liverpool.ac.uk
 
 #### Education
 PhD, Mathematical Sciences, University of Liverpool, 2025—present.\
