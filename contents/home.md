@@ -11,7 +11,7 @@ Email (UoL)  : pspli25[at]liverpool.ac.uk
 
 #### Education
 PhD, Mathematical Sciences, University of Liverpool, 2025—present.\
-M.Sc., Financial Mathematics, University of Liverpool, 2023—2025.\
+M.Sc., Financial Mathematics, University of Liverpool (Distinction), 2023—2025.\
 B.Sc., Information and Computational Science, Minzu University of China, 2019-2023.
 
 #### Research Interests

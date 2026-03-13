@@ -1,13 +1,14 @@
+## Scholarships
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Postgraduate Scholarship of Xi'an Jiaotong-Liverpool University (FOSA2412003)
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Master's Entry Scholarship of Xi'an Jiaotong-Liverpool University
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+## Awards
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- Second Price in China, ’Huawei Cup’ National Graduate Mathematical Contest in Modeling, 2024
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Third Price in China, ’Huawei Cup’ National Graduate Mathematical Contest in Modeling, 2023
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Meritorious Winner, Mathematical Contest in Modeling, 2022
 
