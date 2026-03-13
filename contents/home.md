@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![PeiqiLi25](https://img.shields.io/badge/PeiqiLi25-github-blue?logo=github)](https://github.com/PeiqiLi25)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Peiqi Li is now a PhD student in the Department of Mathematical Sciences at University of Liverpool, and Department of Applied Mathematics at Xi'an Jiaotong-Liverpool University, majoring in Mathematical Sciences. His research interests include Artificial Intelligence for Partial Differential Equations, and Medical Image Analysis.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email (XJTLU): Peiqi.Li23[at]xjtlu.edu.cn  
+Email (UoL)  : pspli25[at]liverpool.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD, Mathematical Sciences, University of Liverpool, 2025—present.\
+M.Sc., Financial Mathematics, University of Liverpool, 2023—2025.\
+B.Sc., Information and Computational Science, Minzu University of China, 2019-2023.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Artificial Intelligence; Medical Image Analysis; Multiscale Modeling; Darcy Equation; Subsurface Fluid Flow
 
