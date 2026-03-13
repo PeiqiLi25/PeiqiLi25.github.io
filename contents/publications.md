@@ -1,16 +1,25 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>P. Li</strong>, J. Chen, H. Zhang, S. Hands, Advanced Deep Learning Methods for Subsurface Fluid Flow Problems: A Survey on Methods and Applications, 2026.
+
+- <strong>P. Li</strong>, J. Chen, S. Fu, Applying Two-Grid Preconditioner for Subsurface Flow Simulation with Attention-Enhanced Neural Operator for Multiscale Discretization, 2026.
+
+- <strong>P. Li</strong>, J. Chen, Dual-Domain Deep Learning Method to Accelerate Local Basis Functions Computation for Reservoir Simulation in High-Contrast Heterogeneous Porous Media, 2025. [[ArXiv]](
+https://doi.org/10.48550/arXiv.2511.20685)
+
+- <strong>P. Li</strong>, Y. Gao, H. Yang, Y. Liu, B. Liu, J. Ni, Y. Zhang, Y. Wu, X. Fang, L. Guo, L. Sun, J. Chen, Intelligent Diagnosis Using Dual-Branch Attention Network for Rare Thyroid Carcinoma Recognition with Ultrasound Imaging, 2025. [[ArXiv]](https://doi.org/10.48550/arXiv.2505.02211)
+
+- <strong>P. Li</strong>, J. Chen, Hybrid Two-Stage Reconstruction of Multiscale Subsurface Flow with Physics-informed Residual Connected Neural Operator, 2025. [[ArXiv]](
+https://doi.org/10.48550/arXiv.2501.13271)
+
+- J. Chen, <strong>P. Li</strong>, Z. He, S. Hands, Prediction of Multiscale Features Using Deep Learning-based Preconditioner-Solver Architecture for Darcy Equation in High-Contrast Media, 2024. [[ArXiv]](
+https://doi.org/10.48550/arXiv.2411.02431)
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Y. Gao, <strong>P. Li</strong>, B. Liu, L. Guo, *, ENHANCING AI MODELS FOR RARE THYROID CANCER DIAGNOSIS USING DEEP LEARNING AND QUASI-PARETO IMPROVEMENT, <strong>Ultrasound in Medicine & Biology</strong>, 2025. [[paper]](0.1016/j.ultrasmedbio.2025.11.371)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- J. She, L. Shi, <strong>P. Li</strong>, Z. Dong, R. Li, S. Li, L. Gu, Z. Tong, Z. Yang, Y. Ji, L. Feng, J. Chen, Detection of disease on nasal breath sound by new lightweight architecture: Using COVID-19 as an example, <strong>Digital Health</strong>, 2025. [[paper]](https://doi.org/10.1177/2055207625133928)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- R. Li, W. Tang, <strong>P. Li</strong>, Q. Huang, J. She, S. Li, H. Xu, Y. Wan, J. Liu, H. Fu, X. Li, J. Chen, Automated measurement of optic nerve sheath diameter using ocular ultrasound video, <strong>Medical & Biological Engineering & Computing</strong>, 2025. [[paper]](https://doi.org/10.1007/s11517-025-03442-7)
 
