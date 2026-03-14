@@ -2,11 +2,11 @@
 
 [![PeiqiLi25](https://img.shields.io/badge/PeiqiLi25-github-blue?logo=github)](https://github.com/PeiqiLi25)
 
-Peiqi Li is now a PhD student in the Department of Mathematical Sciences at University of Liverpool, and Department of Applied Mathematics at Xi'an Jiaotong-Liverpool University, majoring in Mathematical Sciences. His research interests include Artificial Intelligence for Partial Differential Equations, and Medical Image Analysis.
+Peiqi Li is now a PhD student in the Department of Mathematical Sciences at University of Liverpool, and Department of Applied Mathematics at Xi'an Jiaotong-Liverpool University, majoring in Mathematical Sciences. His research interests include Artificial Intelligence for Partial Differential Equations, and Medical Image Analysis. To see a more detailed information, please see my scholar academic website: https://scholar.xjtlu.edu.cn/en/persons/peiqi-li/
 
 #### Contact
 
-Email (XJTLU): Peiqi.Li23@student.xjtlu.edu.cn
+Email (XJTLU): Peiqi.Li23@student.xjtlu.edu.cn\
 Email (UoL)  : pspli25@liverpool.ac.uk
 
 #### Education
