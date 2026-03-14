@@ -17,3 +17,13 @@ B.Sc., Information and Computational Science, Minzu University of China, 2019-20
 #### Research Interests
 Artificial Intelligence; Medical Image Analysis; Multiscale Modeling; Darcy Equation; Subsurface Fluid Flow
 
+#### Work Experience
+- 2024.06-2024.08, Research Assistant, Shanghai Key Laboratory of Multidimensional Information Processing, East China Normal University.
+    
+    - Research on AI for medical image analysis.
+    - Responsible for the project "AI-assisted Thyroid Carcinoma Recognition" as group leader. Detailed duties: model construction, data curation, evaluation, manuscript writing and editing. This project outcomes a research article (submitted) and a conference abstract, published on **Ultrasound in Medicine & Biology**.
+
+- 2025.09-2025.12, Research Assistant, School of Mathematics and Physics, Xi'an Jiaotong-Liverpool University.
+
+    - Research on AI for partial differential equations.
+
